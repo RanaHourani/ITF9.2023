@@ -9,7 +9,7 @@ Concatenate_Dicts = {'Name' : 'Ram', 'Age' : 23, 'City' : 'Salem', 'Gender': 'Ma
 
 while True:
  try:
-    length=int(input("enter nummber1"))
+    ength=int(input("enter nummber1"))
     breadth=int(input("enter nummber2"))
     area=length*breadth
 
